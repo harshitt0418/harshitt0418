@@ -5,7 +5,7 @@
 <a href="https://harshitt-mittal-portfolio.vercel.app/" target="_blank">Portfolio</a> ·
 <a href="https://www.linkedin.com/in/harshit-mittal-1a7707245/" target="_blank">LinkedIn</a> ·
 <a href="mailto:hmittal0418@gmail.com">Email</a> ·
-<a href="https://leetcode.com/harshitt0418" target="_blank">LeetCode</a>
+<a href="https://leetcode.com/u/harshit_0418/" target="_blank">LeetCode</a>
 
 <img src="https://komarev.com/ghpvc/?username=harshitt0418&label=Profile%20Views&color=2C5364&style=flat" alt="profile views"/>
 
