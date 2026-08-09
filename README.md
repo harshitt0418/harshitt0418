@@ -135,8 +135,8 @@ break my own stuff  → found & patched 3-4 critical auth vulnerabilities within
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=harshitt0418&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitt0418&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshitt0418&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshitt0418&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitt0418&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
