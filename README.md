@@ -19,11 +19,11 @@
 name: Harshit Mittal
 role: Full-Stack Developer · DevOps Enthusiast
 degree: B.Tech CSE (Full Stack & DevOps Specialisation), DIT University
-cgpa: 8.39 / 10.0
+cgpa: 8.44 / 10.0
 location: Dehradun, Uttarakhand, India
 languages: [C++, JavaScript, Python]
 currently_building: real-time & security-hardened MERN products
-currently_solving: 600+ DSA problems across LeetCode & CodeChef
+currently_solving: 600+ DSA problems across LeetCode , Codeforces & GFG
 fun_fact: my apps get pen-tested by me before anyone else gets the chance
 ```
 
@@ -153,7 +153,7 @@ break my own stuff  → found & patched 3-4 critical auth vulnerabilities within
 <a href="https://www.linkedin.com/in/harshit-mittal-1a7707245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:hmittal0418@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://harshitt-mittal-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://leetcode.com/harshitt0418" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/harshit_0418/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 <br/><br/>
 
